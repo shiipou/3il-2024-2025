@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "29354e5a9f52056a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a586a013c75a76c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "436b3e082abbaa31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-2025/Flutter/Introduction Flutter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction Flutter"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c26d358de7a61fa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6378244a13bc0d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3221788beb032bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "43b21d080c1d8491",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "52e07b5a0aeea22a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcf63147122cfcbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ef1cb20ff5ec35f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6262b6efcb1273c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-2025/Flutter/Introduction Flutter.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction Flutter"
+            }
+          },
+          {
+            "id": "4f069cdb995a989d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-2025/Flutter/Introduction Flutter.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction Flutter"
+            }
+          },
+          {
+            "id": "f868eeb9c217a7e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3550b1d8d039f697",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-2025/Flutter/Introduction Flutter.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction Flutter"
+            }
+          },
+          {
+            "id": "53f0fd6cfd60db20",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "c485e028824dbb49",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false,
+      "slides-extended:Show slide preview": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "436b3e082abbaa31",
+  "lastOpenFiles": [
+    "2024-2025/Flutter/Index - Flutter.md",
+    "2024-2025/Flutter/Introduction Flutter.md",
+    "2024-10-28.md",
+    "2024-2025/Code Quality/Index - Code Quality.md",
+    "2024-2025/Flutter",
+    "2024-2025/Code Quality",
+    "create a link.md",
+    "Welcome.md",
+    "Excalidraw/Drawing 2024-10-28 09.05.28.excalidraw.md",
+    "Excalidraw",
+    "2024-2025"
+  ]
+}
