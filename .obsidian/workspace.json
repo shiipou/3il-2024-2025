@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Présentations/2. Flutter Fundamentals.md",
+                "file": "Flutter/Slideshow/2. Flutter Fundamentals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Présentations/2. Flutter Fundamentals.md"
+                "file": "Flutter/Slideshow/2. Flutter Fundamentals.md"
               },
               "icon": "lucide-list",
               "title": "Outline of 2. Flutter Fundamentals"
@@ -191,10 +191,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "851707b23ab127f7",
+  "active": "b3221788beb032bd",
   "lastOpenFiles": [
-    "Flutter/Présentations/1. Flutter overview.md",
-    "Flutter/Présentations/2. Flutter Fundamentals.md",
+    "Flutter/Slideshow/1. Flutter overview.md",
+    "Flutter/Slideshow/2. Flutter Fundamentals.md",
     "Flutter/Introduction Flutter.md",
     "Untitled.md",
     "Flutter/Index - Flutter.md",
@@ -224,7 +224,7 @@
     "Notion/Project Planner",
     "Notion",
     "How to install Flutter with only cmdline-tools _ No Android-StudioDT0S.webp",
-    "Flutter/Présentations",
+    "Flutter/Slideshow",
     "Untitled.canvas",
     "Flutter",
     "Code Quality",
