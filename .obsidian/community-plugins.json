@@ -19,5 +19,7 @@
   "media-extended",
   "editing-toolbar",
   "note-toolbar",
-  "languagetool"
+  "languagetool",
+  "obsidian-advanced-codeblock",
+  "obsidian-importer"
 ]

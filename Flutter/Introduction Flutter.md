@@ -7,16 +7,15 @@ Flutter est un framework open-source développé par Google, qui permet de crée
 Dart, le language de programmation derrière le Framework Flutter est aussi un projet Open-Source de Google conçu pour le développement d'applications web et mobiles.
 Il visait a remplacer le JavaScript dans les navigateurs web par un language compilé **Just-In-Time (JIT)** et **Ahead-Of-Time (AOT)** plus moderne centré autours de la Programmation Objet tout en restant simple a apprendre pour tous types de profiles.
 
-```ad-info
-- **JIT** *(utilisé pendant le développement avec Flutter)* permet le hot reload, une fonction de mise à jour rapide du code pour voir les changements en temps réel.
-- **AOT** est utilisé pour la version finale de l’application, ce qui permet de compiler directement en code machine natif pour une meilleure performance.
-```
+> [!info] 
+> - **JIT** *(utilisé pendant le développement avec Flutter)* permet le hot reload, une fonction de mise à jour rapide du code pour voir les changements en temps réel.
+> - **AOT** est utilisé pour la version finale de l’application, ce qui permet de compiler directement en code machine natif pour une meilleure performance.
 
 ## A quoi ça ressemble ? 
 
 ### Dart VS JavaScript
 
-```dart
+```dart nums
 // Create a new class Person that define what's a person is.
 class Person {
   String name;
@@ -36,12 +35,11 @@ void main() {
   // Call the greet function from Person class
   person.greet();
 }
-
 ```
 
 <center>***Versus***</center>
 
-```js
+```js nums
 // Create a person instance from a new JS object.
 const person = {
 	name: 'Alice',
@@ -68,7 +66,7 @@ Il existe deux types de widgets principaux dans Flutter :
 
 Voici un exemple d'un *Stateless Widget* simple qui affiche une carte contenant un message `Hello, Flutter with Card!`, suivie d'un texte stylisé `This is a Flex example.`
 
-```dart
+```dart nums
 class CardExample extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -100,24 +98,25 @@ class CardExample extends StatelessWidget {
 }
 ```
 
-### Explication du code
-
-1. **CardExample** : C'est un *StatelessWidget* qui utilise `Flex` pour aligner les widgets verticalement.
-2. **Flex** : Ce widget organise ses enfants selon une direction (ici verticale).
-- `direction: Axis.vertical` : Définit l'axe de disposition.
-- `mainAxisAlignment: MainAxisAlignment.center` : Centre le contenu verticalement.
-3. **Card** : Ce widget affiche un conteneur avec une ombre et un style de carte par défaut.
-- `elevation: 4` : Définit la profondeur de l’ombre sous la carte pour donner un effet de relief.
-- `color` : Change la couleur de fond de la carte en bleu clair.
-- **Padding** : Ajoute un espacement interne autour du texte pour améliorer l'apparence visuelle.
-4. **Text Widgets** : Chaque `Text` affiche une chaîne avec des styles spécifiques (couleur, taille de la police) pour personnaliser l'affichage.
+> [!hint] 
+> ### Explication du code
+> 
+> 1. **CardExample** : C'est un *StatelessWidget* qui utilise `Flex` pour aligner les widgets verticalement.
+> 2. **Flex** : Ce widget organise ses enfants selon une direction (ici verticale).
+> - `direction: Axis.vertical` : Définit l'axe de disposition.
+> - `mainAxisAlignment: MainAxisAlignment.center` : Centre le contenu verticalement.
+> 3. **Card** : Ce widget affiche un conteneur avec une ombre et un style de carte par défaut.
+> - `elevation: 4` : Définit la profondeur de l’ombre sous la carte pour donner un effet de relief.
+> - `color` : Change la couleur de fond de la carte en bleu clair.
+> - **Padding** : Ajoute un espacement interne autour du texte pour améliorer l'apparence visuelle.
+> 4. **Text Widgets** : Chaque `Text` affiche une chaîne avec des styles spécifiques (couleur, taille de la police) pour personnaliser l'affichage.
 
 ## Avantages de Flutter
 
 Flutter se distingue par plusieurs avantages :
 
-- **Performance native** : En utilisant la compilation AOT pour le code de production, Flutter est optimisé pour exécuter du code directement sur le processeur de l'appareil, offrant des performances proches des applications natives.
+- **Performance native** : En utilisant la compilation AOT pour le code de production, Flutter est optimisé pour exécuter du code directement sur le processeur de l'appareil, offrant des performances proches des applications natives contrairement aux solution comme Cordova.
 - **Hot-Reload** : Pendant le développement, le Hot-Reload permet de voir instantanément les modifications de code dans l'application sans la redémarrer, accélérant le cycle de développement.
-- **Portabilité multiplateforme** : Une seule base de code peut être utilisée pour créer des applications pour Android, iOS, le Web, et même le bureau.
+- **Portabilité multiplateforme** : Une seule base de code peut être utilisée pour créer des applications pour Android, iOS, le Web, et même le bureau sur Linux, MacOs et Windows.
 - **Communauté active et vaste** : La communauté autour de Flutter est grande et croissante, fournissant une large base de widgets et de bibliothèques pour répondre à divers besoins.
 
