@@ -8,7 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "851707b23ab127f7",
+            "id": "97211ea64b724b8a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "4b1b3a101fc827fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,6 +37,23 @@
               },
               "icon": "lucide-file",
               "title": "2. Flutter Fundamentals"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b4be7cf38ef0ceeb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08686574f7f21490",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Slide preview"
             }
           }
         ]
@@ -94,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Flutter/Slideshow/2. Flutter Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2. Flutter Fundamentals"
             }
           },
           {
@@ -112,11 +147,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Flutter/Slideshow/2. Flutter Fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2. Flutter Fundamentals"
             }
           },
           {
@@ -188,11 +224,41 @@
       "omnisearch:Omnisearch": false,
       "media-extended:Open media": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:Manage workspace layouts": false,
+      "copilot:Copilot Chat": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "851707b23ab127f7",
+  "active": "c485e028824dbb49",
   "lastOpenFiles": [
+    "export/2. Flutter Fundamentals/Flutter/assets/images/Pasted image 20241030160346.png",
+    "export/2. Flutter Fundamentals/Flutter/assets/images/Pasted image 20241030160132.png",
+    "export/2. Flutter Fundamentals/Flutter/assets/images/Pasted image 20241030155746.png",
+    "export/2. Flutter Fundamentals/Flutter/assets/images/Pasted image 20241030155453.png",
+    "export/2. Flutter Fundamentals/Flutter/assets/images/Pasted image 20241030155338.png",
+    "export/2. Flutter Fundamentals/Flutter/assets/images/Pasted image 20241030142008.png",
+    "export/2. Flutter Fundamentals/Flutter/assets/images/Pasted image 20241030141952.png",
+    "export/2. Flutter Fundamentals/Flutter/assets/images",
+    "export/2. Flutter Fundamentals/Flutter/assets",
+    "export/2. Flutter Fundamentals/Flutter",
+    "export/2. Flutter Fundamentals/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
+    "export/2. Flutter Fundamentals/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+    "export/2. Flutter Fundamentals/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
+    "export/2. Flutter Fundamentals/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
+    "export/2. Flutter Fundamentals/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+    "export/2. Flutter Fundamentals/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+    "export/2. Flutter Fundamentals/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
+    "export/2. Flutter Fundamentals/plugin/chalkboard/img/whiteboard.png",
+    "export/2. Flutter Fundamentals/plugin/chalkboard/img/sponge.png",
+    "export/2. Flutter Fundamentals/plugin/chalkboard/img/chalk-yellow.png",
+    "export/2. Flutter Fundamentals/plugin/chalkboard/img/chalk-red.png",
+    "export/2. Flutter Fundamentals/plugin/menu/README.md",
+    "export/2. Flutter Fundamentals/plugin/menu/CONTRIBUTING.md",
+    "export/2. Flutter Fundamentals/plugin/customcontrols/README.md",
+    "export/2. Flutter Fundamentals/plugin/chart/README.md",
+    "export/2. Flutter Fundamentals/plugin/chalkboard/README.md",
+    "export/2. Flutter Fundamentals/dist/css/theme/README.md",
     "Flutter/Slideshow/1. Flutter overview.md",
     "Flutter/Slideshow/2. Flutter Fundamentals.md",
     "README.md",
@@ -205,7 +271,6 @@
     "Notion/Flutter advanced.md",
     "Notion/Qualité code source.md",
     "Notion/Sommaire formation Flutter - 2023-2024.md",
-    "person.png",
     "Notion/Weekly To-do List.md",
     "Notion/Getting Started.md",
     "Notion/Project Planner/Solicit donations or sponsorships.md",
@@ -213,22 +278,6 @@
     "Notion/Project Planner/Define the genre and plot outline.md",
     "Notion/Project Planner/Decide on the type of event (auction, race, gala dinner).md",
     "Notion/Personal Website/Personal Website.md",
-    "Notion/Project Planner/Prepare a submission or publish the book.md",
-    "Notion/Project Planner/Publish my first book.md",
-    "Notion/Project Planner/Organize a charity event.md",
-    "Notion/Project Planner/Research and hire contractors or decide on DIY.md",
-    "Notion/Project Planner/Obtain necessary permits for construction.md",
-    "Notion/Project Planner/Home renovation.md",
-    "Notion/Project Planner/Secure a venue and date for the event.md",
-    "Notion/Personal Website",
-    "Notion/Project Planner",
-    "Notion",
-    "How to install Flutter with only cmdline-tools _ No Android-StudioDT0S.webp",
-    "Flutter/Slideshow",
-    "Untitled.canvas",
-    "Flutter",
-    "Code Quality",
-    "Excalidraw",
-    "2024-2025"
+    "Untitled.canvas"
   ]
 }

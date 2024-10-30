@@ -1,7 +1,12 @@
 ## Flutter
 
-- [[1. Flutter overview]]
-- [[2. Flutter Fundamentals]]
+### Flutter overview
+
+![[1. Flutter overview]]
+
+### Flutter Fundamentals
+
+![[2. Flutter Fundamentals]]
 
 ## Code Quality
 
