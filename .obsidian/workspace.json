@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/Slideshow/1. Flutter overview.md",
+                "file": "Flutter/Slideshow/2. Flutter Fundamentals.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Flutter overview"
+              "title": "2. Flutter Fundamentals"
             }
           }
         ]
@@ -138,10 +138,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/Slideshow/1. Flutter overview.md"
+                "file": "Flutter/Slideshow/2. Flutter Fundamentals.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Flutter overview"
+              "title": "Outline of 2. Flutter Fundamentals"
             }
           },
           {
@@ -191,12 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c485e028824dbb49",
+  "active": "851707b23ab127f7",
   "lastOpenFiles": [
-    "README.md",
-    "Code Quality/Index - Code Quality.md",
     "Flutter/Slideshow/1. Flutter overview.md",
     "Flutter/Slideshow/2. Flutter Fundamentals.md",
+    "README.md",
+    "Code Quality/Index - Code Quality.md",
     "Index - Flutter.md",
     "Flutter/Introduction Flutter.md",
     "Flutter/Index - Flutter.md",
