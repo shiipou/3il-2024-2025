@@ -187,14 +187,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "media-extended:Open media": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "851707b23ab127f7",
+  "active": "c485e028824dbb49",
   "lastOpenFiles": [
-    "Flutter/Slideshow/2. Flutter Fundamentals.md",
+    "README.md",
+    "Code Quality/Index - Code Quality.md",
     "Flutter/Slideshow/1. Flutter overview.md",
+    "Flutter/Slideshow/2. Flutter Fundamentals.md",
+    "Index - Flutter.md",
     "Flutter/Introduction Flutter.md",
     "Flutter/Index - Flutter.md",
     "Untitled.md",
@@ -217,9 +220,6 @@
     "Notion/Project Planner/Obtain necessary permits for construction.md",
     "Notion/Project Planner/Home renovation.md",
     "Notion/Project Planner/Secure a venue and date for the event.md",
-    "Notion/Project Planner/Research publishing options (traditional, self-publishing).md",
-    "Notion/Project Planner/Host the event and collect donations.md",
-    "Notion/Project Planner/Set a budget and timeline for the project.md",
     "Notion/Personal Website",
     "Notion/Project Planner",
     "Notion",
