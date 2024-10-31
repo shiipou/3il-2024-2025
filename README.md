@@ -1,13 +1,6 @@
 ## Flutter
 
-### Flutter overview
-
-![[1. Flutter overview]]
-
-### Flutter Fundamentals
-
-![[2. Flutter Fundamentals]]
-
+![[Flutter/README|README]]
 ## Code Quality
 
-- [[Index - Code Quality]]
+- [[Code Quality/README]]

@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "29354e5a9f52056a",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "64fe7537ac33b9b9",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "97211ea64b724b8a",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "4b1b3a101fc827fe",
+            "id": "1230e2da77fb330b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,22 +41,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "b4be7cf38ef0ceeb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "08686574f7f21490",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Slide preview"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -224,14 +208,56 @@
       "omnisearch:Omnisearch": false,
       "media-extended:Open media": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:Manage workspace layouts": false,
       "copilot:Copilot Chat": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c485e028824dbb49",
+  "floating": {
+    "id": "535b5f11c0940fa4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2ea654141bb42cfc",
+        "type": "window",
+        "children": [
+          {
+            "id": "fbcdb99d8b2f1964",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "19bd5d9970cc04a9",
+                "type": "leaf",
+                "state": {
+                  "type": "reveal-preview-view",
+                  "state": {},
+                  "icon": "slides",
+                  "title": "Slide preview"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 300,
+        "y": 105,
+        "width": 689,
+        "height": 601,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1230e2da77fb330b",
   "lastOpenFiles": [
+    "Flutter/Slideshow/1. Flutter overview.md",
+    "Flutter/assets/images/Pasted image 20241031091054.png",
+    "Flutter/assets/images/Pasted image 20241031091542.png",
+    "Flutter/Slideshow/2. Flutter Fundamentals.md",
+    "Flutter/README.md",
+    "Code Quality/README.md",
+    "README.md",
     "export/2. Flutter Fundamentals/Flutter/assets/images/Pasted image 20241030160346.png",
     "export/2. Flutter Fundamentals/Flutter/assets/images/Pasted image 20241030160132.png",
     "export/2. Flutter Fundamentals/Flutter/assets/images/Pasted image 20241030155746.png",
@@ -250,19 +276,12 @@
     "export/2. Flutter Fundamentals/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
     "export/2. Flutter Fundamentals/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
     "export/2. Flutter Fundamentals/plugin/chalkboard/img/whiteboard.png",
-    "export/2. Flutter Fundamentals/plugin/chalkboard/img/sponge.png",
-    "export/2. Flutter Fundamentals/plugin/chalkboard/img/chalk-yellow.png",
-    "export/2. Flutter Fundamentals/plugin/chalkboard/img/chalk-red.png",
     "export/2. Flutter Fundamentals/plugin/menu/README.md",
     "export/2. Flutter Fundamentals/plugin/menu/CONTRIBUTING.md",
     "export/2. Flutter Fundamentals/plugin/customcontrols/README.md",
     "export/2. Flutter Fundamentals/plugin/chart/README.md",
     "export/2. Flutter Fundamentals/plugin/chalkboard/README.md",
     "export/2. Flutter Fundamentals/dist/css/theme/README.md",
-    "Flutter/Slideshow/1. Flutter overview.md",
-    "Flutter/Slideshow/2. Flutter Fundamentals.md",
-    "README.md",
-    "Code Quality/Index - Code Quality.md",
     "Index - Flutter.md",
     "Flutter/Introduction Flutter.md",
     "Flutter/Index - Flutter.md",
@@ -277,7 +296,6 @@
     "Notion/Project Planner/Define the scope of the renovation (kitchen, bathroom, etc.).md",
     "Notion/Project Planner/Define the genre and plot outline.md",
     "Notion/Project Planner/Decide on the type of event (auction, race, gala dinner).md",
-    "Notion/Personal Website/Personal Website.md",
     "Untitled.canvas"
   ]
 }

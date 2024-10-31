@@ -11,7 +11,8 @@
   "dictionary": [
     "Flutter",
     "Stateful",
-    "Stateless"
+    "Stateless",
+    "Supabase"
   ],
   "syncDictionary": false,
   "remoteDictionary": [],
