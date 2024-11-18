@@ -25,22 +25,38 @@
             }
           },
           {
-            "id": "3679a7c3a21d5516",
+            "id": "c192bfb33c1ee138",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flutter/README.md",
+                "file": "Flutter/Slideshow/1. Flutter overview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1. Flutter overview"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "e87c1a0efbaec83c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f4ebb1d24072082",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Slide preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,10 +174,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flutter/README.md"
+                "file": "Flutter/Slideshow/1. Flutter overview.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of 1. Flutter overview"
             }
           },
           {
@@ -214,22 +230,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3679a7c3a21d5516",
+  "active": "c192bfb33c1ee138",
   "lastOpenFiles": [
+    "export/1. Flutter overview/index.html",
+    "export/1. Flutter overview/css/slides-extended.css",
+    "export/1. Flutter overview/css",
+    "export/1. Flutter overview/dist/reveal.css",
+    "export/1. Flutter overview/dist/reset.css",
+    "Flutter/README.md",
+    "Flutter/Slideshow/1. Flutter overview.md",
+    "README.md",
     "export/Flutter.zip",
     "export/1. Flutter overview.zip",
     "export/index.html",
-    "README.md",
-    "Flutter/README.md",
     "Flutter/Slideshow/3. State managment.md",
     "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
     "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
-    "export/3. State managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff",
     "export/3. State managment/plugin/chalkboard/img/whiteboard.png",
     "export/3. State managment/plugin/chalkboard/img/sponge.png",
     "export/3. State managment/plugin/chalkboard/img/chalk-yellow.png",
@@ -253,7 +270,6 @@
     "export/2. Flutter Fundamentals/plugin/chalkboard/README.md",
     "export/2. Flutter Fundamentals/plugin/chart/README.md",
     "export/2. Flutter Fundamentals/dist/css/theme/README.md",
-    "Flutter/Slideshow/1. Flutter overview.md",
     "export/1. Flutter overview/plugin/menu/README.md",
     "export/1. Flutter overview/plugin/menu/CONTRIBUTING.md",
     "export/1. Flutter overview/plugin/chart/README.md",
