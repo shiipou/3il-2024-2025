@@ -43,7 +43,6 @@
 - **Resources:**
   - [Fetch Documentation](https://docs.flutter.dev/cookbook/networking/fetch-data)
 
-%%
 ### **Session 5: Flutter and Firebase Integration** (Or [Supabase](https://supabase.com/docs/guides/getting-started/quickstarts/flutter))
 - **Topics:**
   - Introduction to Firebase like database.
@@ -54,9 +53,19 @@
   - Update your **social network** with user authentication and data storage in Supabase.
 - **Resources:**
   - [Supabase x Flutter Documentation](https://supabase.com/docs/reference/dart/introduction)
- %%
-### **Session 6**: Project (Evaluation)
+
+### **Session 6: Project**
 - Topics:
-	- Develop your own project
+	- Evolution of the social media
 	- Groups from 2 to 3 persons
 	- Using Git
+### **Session 7: Project (Evaluation)**
+- Topics:
+	- Present your app
+		- Support:
+			- PowerPoint with screenshot/video (safer)
+			- or use App Live view
+		- Present the point of your app
+		- Show how it works
+		- Present how you made it
+		- Explain your difficulties
