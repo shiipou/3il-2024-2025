@@ -25,16 +25,18 @@
             }
           },
           {
-            "id": "1af9870e4fcb592f",
+            "id": "a4994e90fed9be0b",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Flutter/Slideshow/1. Flutter overview.md",
-                "staged": false
+                "file": "Flutter/Slideshow/4. Working with APIs.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (1. Flutter overview)"
+              "icon": "lucide-file",
+              "title": "4. Working with APIs"
             }
           }
         ],
@@ -155,9 +157,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Flutter/Slideshow/4. Working with APIs.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 4. Working with APIs"
             }
           },
           {
@@ -166,8 +170,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -178,6 +182,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "049a99a670c9ac7a",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           }
         ],
@@ -195,23 +209,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "slides-extended:Show slide preview": false,
-      "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "media-extended:Open media": false,
       "obsidian-importer:Open Importer": false,
-      "workspaces:Manage workspace layouts": false,
       "copilot:Copilot Chat": false,
-      "homepage:Open homepage": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "1af9870e4fcb592f",
+  "active": "a4994e90fed9be0b",
   "lastOpenFiles": [
+    "Flutter/README.md",
+    "Flutter/Slideshow/4. Working with APIs.md",
+    "Flutter/Slideshow/3. State managment.md",
+    "README.md",
     "Flutter/assets/images/Pasted image 20241030160132.png",
     "Flutter/assets/images/Pasted image 20241031091542.png",
     "Flutter/assets/images/Pasted image 20241030155453.png",
@@ -220,7 +238,6 @@
     "Flutter/assets/images/Pasted image 20241030142008.png",
     "Flutter/assets/images/Pasted image 20241030141952.png",
     "Flutter/Slideshow/2. Flutter Fundamentals.md",
-    "Flutter/Slideshow/3. State managment.md",
     "export/state-managment.zip",
     "export/state-managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
     "export/state-managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
@@ -234,15 +251,12 @@
     "export/state-managment/plugin/chalkboard/img/whiteboard.png",
     "export/state-managment/plugin/chalkboard/img/sponge.png",
     "export/state-managment/plugin/chalkboard/img/chalk-white.png",
-    "export/state-managment/plugin/chalkboard/img/chalk-yellow.png",
     "export/state-managment/dist/css/theme/README.md",
     "export/state-managment/plugin/customcontrols/README.md",
     "export/state-managment/plugin/menu/README.md",
     "export/state-managment/plugin/menu/CONTRIBUTING.md",
     "export/state-managment/plugin/chalkboard/README.md",
     "export/state-managment/plugin/chart/README.md",
-    "Flutter/README.md",
-    "README.md",
     "export/flutter-fundamentals/dist/css/theme/README.md",
     "export/flutter-fundamentals/plugin/menu/README.md",
     "export/flutter-fundamentals/plugin/menu/CONTRIBUTING.md",
