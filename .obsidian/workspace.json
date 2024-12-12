@@ -219,15 +219,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "db6cfe9be3edf985",
+        "id": "7630e96a1786ac03",
         "type": "window",
         "children": [
           {
-            "id": "80b1ee50368960ed",
+            "id": "106fad77115fcc7b",
             "type": "tabs",
             "children": [
               {
-                "id": "ec49165d89f7628b",
+                "id": "d6077e706a36fab8",
                 "type": "leaf",
                 "state": {
                   "type": "reveal-preview-view",
@@ -240,8 +240,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 304,
-        "y": 1274,
+        "x": 372,
+        "y": 1344,
         "width": 665,
         "height": 993,
         "maximize": true,
@@ -249,7 +249,7 @@
       }
     ]
   },
-  "active": "ec49165d89f7628b",
+  "active": "2a03b8cfdbce1235",
   "lastOpenFiles": [
     "Flutter/README.md",
     "Flutter/Slideshow/4. Working with APIs.md",
