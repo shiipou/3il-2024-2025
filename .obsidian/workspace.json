@@ -25,7 +25,7 @@
             }
           },
           {
-            "id": "a4994e90fed9be0b",
+            "id": "2a03b8cfdbce1235",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,8 +170,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
             }
           },
           {
@@ -182,16 +182,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "049a99a670c9ac7a",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
             }
           }
         ],
@@ -209,28 +199,65 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "slides-extended:Show slide preview": false,
+      "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "media-extended:Open media": false,
       "obsidian-importer:Open Importer": false,
+      "workspaces:Manage workspace layouts": false,
       "copilot:Copilot Chat": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4994e90fed9be0b",
+  "floating": {
+    "id": "5a00cd92fa1a7def",
+    "type": "floating",
+    "children": [
+      {
+        "id": "db6cfe9be3edf985",
+        "type": "window",
+        "children": [
+          {
+            "id": "80b1ee50368960ed",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ec49165d89f7628b",
+                "type": "leaf",
+                "state": {
+                  "type": "reveal-preview-view",
+                  "state": {},
+                  "icon": "slides",
+                  "title": "Slide preview"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 304,
+        "y": 1274,
+        "width": 665,
+        "height": 993,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ec49165d89f7628b",
   "lastOpenFiles": [
-    "Flutter/Slideshow/1. Flutter overview.md",
-    "Flutter/Slideshow/4. Working with APIs.md",
     "Flutter/README.md",
-    "Flutter/Slideshow/3. State managment.md",
+    "Flutter/Slideshow/4. Working with APIs.md",
     "README.md",
+    "Flutter/Slideshow/3. State managment.md",
+    "Flutter/Slideshow/2. Flutter Fundamentals.md",
+    "Flutter/Slideshow/1. Flutter overview.md",
+    "Flutter/assets/images/1. CardExample Overview.png",
     "Flutter/assets/images/Pasted image 20241030160132.png",
     "Flutter/assets/images/Pasted image 20241031091542.png",
     "Flutter/assets/images/Pasted image 20241030155453.png",
@@ -238,7 +265,6 @@
     "Flutter/assets/images/Pasted image 20241030155338.png",
     "Flutter/assets/images/Pasted image 20241030142008.png",
     "Flutter/assets/images/Pasted image 20241030141952.png",
-    "Flutter/Slideshow/2. Flutter Fundamentals.md",
     "export/state-managment.zip",
     "export/state-managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
     "export/state-managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
@@ -251,7 +277,6 @@
     "export/state-managment/plugin/math/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
     "export/state-managment/plugin/chalkboard/img/whiteboard.png",
     "export/state-managment/plugin/chalkboard/img/sponge.png",
-    "export/state-managment/plugin/chalkboard/img/chalk-white.png",
     "export/state-managment/dist/css/theme/README.md",
     "export/state-managment/plugin/customcontrols/README.md",
     "export/state-managment/plugin/menu/README.md",
